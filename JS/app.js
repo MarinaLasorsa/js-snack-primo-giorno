@@ -9,12 +9,13 @@ console.log(number)
 //ESERCIZIO 2
 //Dichiara una costante chiamata PI e assegnale il valore di 3.14. Stampa il valore della costante in console.
 
+const PI = 3.14; //number
 
+console.log(PI)
 
 
 //ESERCIZIO 2/B
 //Prova ad assegnare alla costante chiamata PI il valore di 3.1416. Sai dire cosa succede?
-
 
 
 
