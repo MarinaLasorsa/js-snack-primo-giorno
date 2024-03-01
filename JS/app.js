@@ -32,9 +32,12 @@ console.log(circle)
 
 
 //ESERCIZIO 3
-//Dichiara una variabile chiamata name e
-//assegnale il valore “Carlo”.
+//Dichiara una variabile chiamata name e assegnale il valore “Carlo”.
 //Successivamente, modifica il valore della variabile in “Marco”.
 //Stampa il nuovo valore in console.
 
+let name = "Carlo"; //string
+name = "Marco"; //string
+
+console.log(name)
 
