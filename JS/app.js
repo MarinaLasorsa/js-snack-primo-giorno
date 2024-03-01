@@ -17,7 +17,8 @@ console.log(PI)
 //ESERCIZIO 2/B
 //Prova ad assegnare alla costante chiamata PI il valore di 3.1416. Sai dire cosa succede?
 
-
+PI = 3.1416; //number
+//E' impossibile assegnare un nuovo valore a PI essendo una costante (const). Appare errore "Uncaught TypeError: invalid assignment to const 'PI'"
 
 //ESERCIZIO 2/C
 //Dichiara una variabile chiamata radius e assegnale il valore 8.
